@@ -1,0 +1,13 @@
+com/womakers/code/adapters/outbounds/ProductRepository.class
+com/womakers/code/adapters/dtos/ProductResponseDTO.class
+com/womakers/code/application/entities/Product.class
+com/womakers/code/adapters/dtos/ProductRequestDTO.class
+com/womakers/code/application/exceptions/ProductException.class
+com/womakers/code/adapters/inbounds/ProductController.class
+com/womakers/code/application/mappers/ProductMapper.class
+com/womakers/code/adapters/dtos/ProductRequestDTO$ProductRequestDTOBuilder.class
+com/womakers/code/application/entities/Product$ProductBuilder.class
+com/womakers/code/application/services/ProductService.class
+com/womakers/code/WomakersApplication.class
+com/womakers/code/adapters/dtos/ProductResponseDTO$ProductResponseDTOBuilder.class
+com/womakers/code/application/exceptions/ProductNotFoundException.class

@@ -1,0 +1,10 @@
+/home/laryssaalves/Projetos/womakers-code-unit-tests/src/main/java/com/womakers/code/WomakersApplication.java
+/home/laryssaalves/Projetos/womakers-code-unit-tests/src/main/java/com/womakers/code/adapters/inbounds/ProductController.java
+/home/laryssaalves/Projetos/womakers-code-unit-tests/src/main/java/com/womakers/code/adapters/dtos/ProductResponseDTO.java
+/home/laryssaalves/Projetos/womakers-code-unit-tests/src/main/java/com/womakers/code/application/entities/Product.java
+/home/laryssaalves/Projetos/womakers-code-unit-tests/src/main/java/com/womakers/code/application/services/ProductService.java
+/home/laryssaalves/Projetos/womakers-code-unit-tests/src/main/java/com/womakers/code/adapters/outbounds/ProductRepository.java
+/home/laryssaalves/Projetos/womakers-code-unit-tests/src/main/java/com/womakers/code/adapters/dtos/ProductRequestDTO.java
+/home/laryssaalves/Projetos/womakers-code-unit-tests/src/main/java/com/womakers/code/application/mappers/ProductMapper.java
+/home/laryssaalves/Projetos/womakers-code-unit-tests/src/main/java/com/womakers/code/application/exceptions/ProductException.java
+/home/laryssaalves/Projetos/womakers-code-unit-tests/src/main/java/com/womakers/code/application/exceptions/ProductNotFoundException.java

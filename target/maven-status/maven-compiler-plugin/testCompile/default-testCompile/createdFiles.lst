@@ -1,0 +1,4 @@
+com/womakers/code/application/services/ProductServiceTest.class
+com/womakers/code/application/mappers/ProductMapperTest.class
+com/womakers/code/adapters/inbounds/ProductControllerTest.class
+com/womakers/code/fixtures/ProductFixture.class
